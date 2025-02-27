@@ -14,7 +14,6 @@ from src.recommendation import get_recommendation
 model = pickle.load(open("models/diabetes_risk_model.pkl", "rb"))
 
 # Streamlit UI
-st.run(host="0.0.0.0", port=8501)
 st.title("🩺 MediAI: Disease Risk Assessment")
 st.write("Enter your health parameters to assess your risk level.")
 
