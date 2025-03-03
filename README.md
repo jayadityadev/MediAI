@@ -102,5 +102,5 @@ This project is open-source and available under the **MIT License**.
 
 ## **Contact**
 For any questions or contributions, reach out via:
-📧 Email: your.email@example.com  
-🐙 GitHub: [yourusername](https://github.com/yourusername)
+📧 Email: jayadityadev261204@gmail.com  
+🐙 GitHub: [jayadityadev](https://github.com/jayadityadev)
